@@ -1,4 +1,4 @@
-Dashboard with 5 Charts
+Dashboard with 4 Charts
 This dashboard will include the following charts:
 
 
