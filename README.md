@@ -1,10 +1,7 @@
 Dashboard with 5 Charts
 This dashboard will include the following charts:
 
-Orders by Roast Type (Pie Chart)
-Total Orders by Coffee Type (Bar Chart)
-Total Sales by Country (Line Chart)
-Unit Price by Country (Doughnut Chart)
+
 
 
 1. Orders by Roast Type (Pie Chart)
